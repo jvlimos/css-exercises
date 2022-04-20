@@ -1,0 +1,15 @@
+p {
+	font-family: "Verdana","Dejavu Sans",sans-serif;
+	background-color: rgb(255, 160, 160)
+}
+#blue {
+	color: rgb(0, 0, 255);
+	font-size: 36px;
+}
+.px24 {
+	font-size: 24px;
+}
+#lightgreen-bold {
+	font-weight: 700;
+	background-color: lightgreen;
+}
